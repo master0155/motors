@@ -72,11 +72,6 @@ nav li a {
     display: flex;
 }
 
-#sobre-a-loja{
-    max-width: 400px;
-    margin-right: 24px;
-}
-
 section{
     padding: 48px 0;
 }
@@ -166,6 +161,7 @@ footer li img{
 }
 
 #sobre-loja img {
-    max-width: 25rem;
-    margin-right: 1.5rem;
+    max-width: 300px;
+    margin-right: 16px;
+
 }
